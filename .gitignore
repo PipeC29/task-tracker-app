@@ -1,0 +1,17 @@
+# === Node.js / React ===
+node_modules/
+build/
+*.log
+.env
+
+# === Spring Boot / Java ===
+target/
+*.iml
+
+# === Archivos y carpetas locales / IDE ===
+.idea/
+.DS_Store
+
+# === Claude AI y archivos específicos ===
+.claude/
+Full Stack Task Tracker.txt
