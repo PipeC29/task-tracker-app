@@ -12,6 +12,4 @@ target/
 .idea/
 .DS_Store
 
-# === Claude AI y archivos específicos ===
-.claude/
-Full Stack Task Tracker.txt
+
