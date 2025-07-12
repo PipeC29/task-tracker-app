@@ -237,10 +237,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - TailwindCSS for the utility-first CSS framework
 - H2 Database for the lightweight in-memory database
 
-## 📧 Contact
-
-For questions or suggestions, please open an issue in the repository.
-
----
-
-**Happy Coding!** 🚀
